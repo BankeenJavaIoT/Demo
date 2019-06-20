@@ -1,5 +1,10 @@
-Helo
+Hello
 
 
-I an testing texting.
-Zee yoo
+I am testing texting.
+See you later
+
+git status 
+git add.
+git commit -m "message"
+git push
